@@ -8,7 +8,7 @@ Just build it with "go build", and you're good to go.
 
 Or, there are ready-made binaries here too, that you can just grab and use, like:
 
-	wget https://raw.githubusercontent.com/kkovacs/gominiweb/master/gominiweb-armel
+	wget https://raw.githubusercontent.com/kkovacs/gominiweb/master/gominiweb-armv7l
 
 Usage:
 
